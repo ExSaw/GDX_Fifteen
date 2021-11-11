@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![pic3](https://github.com/ExSaw/GDX_Fifteen/blob/main/photo_2021-11-11_15-55-43.jpg)
+![photo_2021-11-11_15-55-43](https://user-images.githubusercontent.com/86077011/141287899-6a97e27d-bae9-46f1-8dcc-9c73fe4ac52c.jpg)
 
 
 Simple old game from childhood.
