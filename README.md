@@ -10,7 +10,7 @@
     <img src=https://user-images.githubusercontent.com/86077011/122677313-4801b500-d1fb-11eb-89b8-276c3633ef32.png alt="Logo" width="160" height="260">
   </a>
 
-  <h3 align="center">Forgotten Brick Game</h3>
+  <h3 align="center">GDX Fifteen</h3>
 
   <p align="center">
   <!--
@@ -19,7 +19,7 @@
     <a href="https://play.google.com/store/apps/details?id=com.rickrip.game0"><strong>Link to Play Market »</strong></a>
     <br />
     <br />
--->
+
     <a href="https://play.google.com/store/apps/developer?id=RickRip">
       <img alt="Play Store" src="https://img.shields.io/badge/Game_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=green"/>
     </a>
@@ -30,7 +30,7 @@
   </p>
 </p>
 
-
+-->
 
 <!-- TABLE OF CONTENTS -->
 <!--
@@ -73,7 +73,7 @@ The game came about when my friend accidentally broke his old Nokia phone. So af
 ### Built With
 * [Java](https://www.java.com)
 * [libGDX](https://libgdx.com)
-* [GLSL](https://wikipedia.org/wiki/OpenGL_Shading_Language)
+<!-- * [GLSL](https://wikipedia.org/wiki/OpenGL_Shading_Language) -->
 * [OpenGL ES 2.0](https://www.opengl.org)
 
 
