@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Chudov Alex (RickRip) - usatu.robotics@gmail.com <img alt="Gmail" src="https://img.shields.io/badge/My Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
-Project Link: [https://github.com/ExSaw/Forgotten-Brick-Game](https://github.com/ExSaw/Forgotten-Brick-Game)
+Project Link: [https://github.com/ExSaw/GDX_Fifteen](https://github.com/ExSaw/GDX_Fifteen)
 
 <!-- CONTACT -->
 <!--
